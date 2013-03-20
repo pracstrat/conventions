@@ -33,3 +33,7 @@
 * Name variables created by a factory after the factory (`user_factory`
   creates `user`).
 
+## Tools
+
+* https://github.com/bbatsov/rubocop
+
